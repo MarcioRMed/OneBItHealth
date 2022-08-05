@@ -1,11 +1,17 @@
-ultima aula 4 parte 2
+ultima aula 4 parte 3
+
+9min
 
 
-https://www.youtube.com/watch?v=5dzD1ZqJhi4&list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_&index=9&ab_channel=OneBitCode
+ajuste no layout - teclado sobrescrevendo o conteudo
 
+https://www.youtube.com/watch?v=yW8lUxW6NDU&list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_&index=10&ab_channel=OneBitCode
 
 
 Apis React Native
 
 Vibration
+sharad
+
+
 
