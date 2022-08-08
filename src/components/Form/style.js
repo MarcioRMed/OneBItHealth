@@ -2,6 +2,7 @@ import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
   formContext: {
+    // flex: 1,
     width:'100%',
     height:'90%',
     justifyContent:'space-around',
@@ -42,6 +43,7 @@ const styles = StyleSheet.create({
     backgroundColor:'#ff0043',
     paddingTop:14,
     paddingBottom:14,
+    paddingHorizontal:25,
     marginLeft:12,
     margin:20,
 
@@ -55,7 +57,11 @@ const styles = StyleSheet.create({
     color:'red',
     fontWeight:'bold',
     paddingLeft:20,
-  }
+  },
+  exhibitionResultImc:{
+    width: '100%',
+    height:'50%',
+  },
 });
 
 export default styles
