@@ -1,14 +1,13 @@
 Curso React Native - Prof. Felipe Moreira
 
-ultima aula 4 parte 3
+ultima aula 6 parte 1
 
-9min
+0 min
 
 
 ajuste no layout - teclado sobrescrevendo o conteudo
 
-https://www.youtube.com/watch?v=yW8lUxW6NDU&list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_&index=10&ab_channel=OneBitCode
-
+https://www.youtube.com/watch?v=99diO-41iWU&list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_&index=14&ab_channel=OneBitCode
 
 Apis React Native
 
